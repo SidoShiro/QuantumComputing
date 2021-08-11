@@ -1,4 +1,4 @@
 # QuantumComputing
 
-* Grove Algorithm
+* Grover's algorithm
 
